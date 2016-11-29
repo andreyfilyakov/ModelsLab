@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decisions", "Decisions\Deci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNearest", "KNearest\KNearest.csproj", "{A41CA8F7-E7A2-40CF-8FB3-B5161E364B02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulatedAnnealing", "SimulatedAnnealing\SimulatedAnnealing.csproj", "{7DA4CE72-0529-48B1-862D-CA565E9C5215}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A41CA8F7-E7A2-40CF-8FB3-B5161E364B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A41CA8F7-E7A2-40CF-8FB3-B5161E364B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A41CA8F7-E7A2-40CF-8FB3-B5161E364B02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DA4CE72-0529-48B1-862D-CA565E9C5215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA4CE72-0529-48B1-862D-CA565E9C5215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA4CE72-0529-48B1-862D-CA565E9C5215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA4CE72-0529-48B1-862D-CA565E9C5215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
